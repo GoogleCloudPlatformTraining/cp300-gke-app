@@ -1,2 +1,2 @@
-#cp300-gke-app
-Used in the CP300 course - A sample GKE application.
+#cp306-gke-app
+Used in the CP306 course - A sample GKE application.
